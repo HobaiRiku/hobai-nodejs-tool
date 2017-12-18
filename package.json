@@ -1,6 +1,6 @@
 {
   "name": "hobai-nodejs-tool",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "自用nodejs应用开发工具包",
   "main": "index.js",
   "scripts": {

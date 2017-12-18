@@ -61,7 +61,7 @@ function sendEmail(email, subject_context, text, html) {
         text: text,
         html: html
     };
-    console.log(mailOptions);
+    //console.log(mailOptions);
     transporter.sendMail(mailOptions, (error, info) => {
         if (error) {
             throw error;
