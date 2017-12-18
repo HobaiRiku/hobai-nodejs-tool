@@ -1,0 +1,27 @@
+{
+  "name": "hobai-nodejs-tool",
+  "version": "1.0.0",
+  "description": "自用nodejs应用开发工具包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HobaiRiku/hobai-nodejs-tool.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Hobai Riku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HobaiRiku/hobai-nodejs-tool/issues"
+  },
+  "homepage": "https://github.com/HobaiRiku/hobai-nodejs-tool#readme",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "md5": "^2.2.1",
+    "nodemailer": "^4.4.1"
+  }
+}
