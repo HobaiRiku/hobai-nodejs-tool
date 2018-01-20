@@ -6,7 +6,7 @@
 let getBody=function(obj){
     let body={};
 for(var o in obj) {
-    if(obj[o]!=''&&o!='_id'){
+    if(obj[o]!==''&&o!=='_id'){
         body[o]=obj[o];
     }
   }
